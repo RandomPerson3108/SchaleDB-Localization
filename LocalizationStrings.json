@@ -615,7 +615,7 @@
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
                 "Jp": "被ダメージ抵抗",
-                "Kr": "받는 대미지량",
+                "Kr": "받는 대미지량 저항",
                 "Th": "ความเสียหายที่ได้รับ",
                 "Tw": "遭受的傷害量",
                 "Cn": "全局免伤率",
@@ -714,7 +714,7 @@
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
-                "Kr": "이로운 효과 유지력",
+                "Kr": "버프 유지력",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": "增益效果持續力",
                 "Cn": "增益持续力",
@@ -723,7 +723,7 @@
             "ExtendDebuffDuration": {
                 "En": "Debuff Duration",
                 "Jp": "弱体状態持続力",
-                "Kr": "해로운 효과 유지력",
+                "Kr": "디버프 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": "減益效果持續力",
                 "Cn": "减益持续力",
@@ -1232,7 +1232,7 @@
             "24": {
                 "En": "Disco Colgante",
                 "Jp": "円盤型ペンダント",
-                "Kr": "디스코 콜칸테",
+                "Kr": "디스코 콜간테",
                 "Tw": null,
                 "Cn": "圆盘坠饰",
                 "Th": "ดิสโก โคลกานเต",
@@ -1559,7 +1559,7 @@
             "ChaserC": {
                 "En": "Besieged Classroom {0}",
                 "Jp": "襲撃された校舎{0}",
-                "Kr": "습격 받은 교실 {0}",
+                "Kr": "습격받은 교실 {0}",
                 "Th": "ห้องเรียนที่ถูกลอบโจมตี {0}",
                 "Tw": "被襲擊的教室{0}",
                 "Cn": "被袭击的教室{0}",
@@ -1803,7 +1803,7 @@
             "Special": {
                 "En": "Status Effect",
                 "Jp": "特殊状態",
-                "Kr": null,
+                "Kr": "특수 효과",
                 "Th": "เอฟเฟกต์พิเศษ",
                 "Tw": "狀態效果",
                 "Cn": "特殊状态",
@@ -1859,7 +1859,7 @@
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
-                "Kr": "집중공격",
+                "Kr": "집중 포화",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
@@ -1940,7 +1940,7 @@
             "Buff_DamageRatio": {
                 "En": "Damage Dealt",
                 "Jp": "与えるダメージ量",
-                "Kr": "주는 대미지량",
+                "Kr": "준 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": "造成傷害",
                 "Cn": "全局伤害倍率",
@@ -2030,7 +2030,7 @@
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
-                "Kr": "이로운 효과 유지력",
+                "Kr": "버프 유지력",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": "增益效果持續力",
                 "Cn": "增益持续力",
@@ -2039,7 +2039,7 @@
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration",
                 "Jp": "弱体状態持続力",
-                "Kr": "해로운 효과 유지력",
+                "Kr": "디버프 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": "減益效果持續力",
                 "Cn": "减益持续力",
@@ -2227,7 +2227,7 @@
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
-                "Kr": "집중공격",
+                "Kr": "집중 포화",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
@@ -2299,7 +2299,7 @@
             "Debuff_DamageRatio": {
                 "En": "Damage Dealt",
                 "Jp": "与えるダメージ量",
-                "Kr": "주는 대미지량",
+                "Kr": "준 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": "造成傷害",
                 "Cn": "全局伤害倍率",
@@ -2434,7 +2434,7 @@
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD",
                 "Jp": "移動速度",
-                "Kr": "이동속도",
+                "Kr": "이동 속도",
                 "Th": "ความเร็วเคลื่อนที่",
                 "Tw": "移動速度",
                 "Cn": "移速",
@@ -2727,7 +2727,7 @@
                 "Tw": "集中攻擊",
                 "Cn": "集火",
                 "Vi": "Tập trung mục tiêu",
-                "Kr": "집중공격"
+                "Kr": "집중 포화"
             },
             "Buff_CostChange": {
                 "En": "EX Cost Down",
@@ -2894,7 +2894,7 @@
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
                 "Jp": "バフ効果持続力増加",
-                "Kr": "이로운 효과 유지력 증가",
+                "Kr": "버프 유지력 증가",
                 "Th": "ระยะเวลาบัฟเพิ่มขึ้น",
                 "Tw": "增益效果持續力增加",
                 "Cn": "增益持续力提升",
@@ -2903,7 +2903,7 @@
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration Up",
                 "Jp": "弱体状態持続力増加",
-                "Kr": "해로운 효과 유지력 증가",
+                "Kr": "버프 유지력 증가",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น",
                 "Tw": "減益效果持續力增加",
                 "Cn": "减益持续力提升",
@@ -3095,7 +3095,7 @@
                 "Tw": "集中攻擊",
                 "Cn": "集火",
                 "Vi": "Tập trung mục tiêu",
-                "Kr": "집중공격"
+                "Kr": "집중 포화"
             },
             "Debuff_CostChange": {
                 "En": "EX Cost Up",
@@ -3418,7 +3418,8 @@
                 "Th": "เปลี่ยนรูปแบบการโจมตี",
                 "Tw": "一般攻擊",
                 "Cn": "普通攻击",
-                "Vi": "Thay đổi hình thức"
+                "Vi": "Thay đổi hình thức",
+                "Kr": "일반 공격 "
             },
             "Special_Immortal": {
                 "En": "Invincible",
@@ -3524,7 +3525,8 @@
                 "Jp": "シルバーバレット",
                 "Th": "ตราแห่งการชำระบาป",
                 "Cn": "白银圣弹",
-                "Vi": "Viên đạn bạc"
+                "Vi": "Viên đạn bạc",
+                "Kr": "은 탄환"
             },
             "Special_CH0187Mod": {
                 "En": "Abi-Eshuh Mode",
@@ -3606,14 +3608,16 @@
                 "Jp": "攻撃時に会心攻撃が発生する確率を増加する。",
                 "Cn": "提升攻击时的暴击概率",
                 "Th": "เพิ่มโอกาสโจมตีติดคริติคอล",
-                "Vi": "Tăng tỉ lệ đánh trúng đòn chí mạng khi tấn công."
+                "Vi": "Tăng tỉ lệ đánh trúng đòn chí mạng khi tấn công.",
+                "Kr": "치명타를 줄 확률이 증가합니다."
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Decerases the chance of receiving a critical hit when being attacked.",
                 "Jp": "被攻撃時に会心攻撃を受ける確率を減少する。",
                 "Cn": "降低受到攻击时暴击的概率",
                 "Th": "ลดโอกาสถูกโจมตีติดคริติคอล",
-                "Vi": "Giảm tỉ lệ nhận đòn chí mạng khi bị tấn công."
+                "Vi": "Giảm tỉ lệ nhận đòn chí mạng khi bị tấn công.",
+                "Kr": "치명타를 받을 확률이 감소합니다."
             },
             "Buff_CriticalDamage": {
                 "En": "Increases the damage dealt by critical hits.",
@@ -3628,26 +3632,29 @@
                 "Jp": "会心攻撃によって受けるダメージを減少する。",
                 "Cn": "降低受到的暴击伤害",
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล",
-                "Vi": "Giảm sát thương nhận được từ các đòn chí mạng."
+                "Vi": "Giảm sát thương nhận được từ các đòn chí mạng.",
+                "Kr": "치명타로 받는 대미지가 감소합니다."
             },
             "Buff_DamagedLimit": {
                 "En": "Limits the amount of damage received from attacks.",
                 "Jp": "攻撃によって受ける最大ダメージを制限する。",
                 "Cn": "限制受到攻击时的最大伤害",
                 "Th": "จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี",
-                "Vi": "Giới hạn lượng sát thương nhận được từ các cuộc tấn công."
+                "Vi": "Giới hạn lượng sát thương nhận được từ các cuộc tấn công.",
+                "Kr": "공격으로 인해 받을 수 있는 대미지에 제한을 둡니다."
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
                 "Jp": "すべての被ダメージを一定の割合減少する。",
                 "Cn": "以一定倍率降低受到的所有伤害",
                 "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์",
-                "Vi": "Giảm tất cả sát thương nhận vào theo phần trăm."
+                "Vi": "Giảm tất cả sát thương nhận vào theo phần trăm.",
+                "Kr": "받는 모든 대미지를 퍼센트 값으로 감소시킵니다."
             },
             "Buff_DamageRatio": {
                 "En": "Increases all damage dealt by a percentage amount.",
                 "Jp": "すべての与ダメージを一定の割合増加する。",
-                "Kr": null,
+                "Kr": "주는 모든 대미지를 퍼센트 값으로 증가시킵니다.",
                 "Th": "เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比率提升所有造成的傷害。",
                 "Cn": "以一定倍率提升攻击造成的所有伤害",
@@ -3658,21 +3665,24 @@
                 "Jp": "攻撃によって受けるダメージを減少する。",
                 "Cn": "降低受到的伤害",
                 "Th": "ลดความเสียหายเมื่อถูกโจมตี",
-                "Vi": "Giảm sát thương nhận được từ các cuộc tấn công."
+                "Vi": "Giảm sát thương nhận được từ các cuộc tấn công.",
+                "Kr": "받는 대미지량을 감소시킵니다."
             },
             "Buff_Dodge": {
                 "En": "Increases the chance of successfully evading attacks.",
                 "Jp": "攻撃を回避する確率を増加する。",
                 "Cn": "提升闪避攻击的概率",
                 "Th": "เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ",
-                "Vi": "Tăng tỉ lệ né đòn đánh thành công."
+                "Vi": "Tăng tỉ lệ né đòn đánh thành công.",
+                "Kr": "공격을 회피할 확률이 증가합니다."
             },
             "Buff_DotHeal": {
                 "En": "Continuously restores HP at set intervals.",
                 "Jp": "一定間隔でHPを持続的に回復する。",
                 "Cn": "以一定时间间隔持续回复生命值",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง",
-                "Vi": "Liên tục khôi phục máu theo các khoảng thời gian đã định."
+                "Vi": "Liên tục khôi phục máu theo các khoảng thời gian đã định.",
+                "Kr": "일정한 간격의 시간마다 HP가 지속적으로 회복됩니다."
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
